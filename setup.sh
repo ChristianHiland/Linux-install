@@ -1,15 +1,16 @@
 echo "Hello! Starting up!"
 
+# Installing the apps
 sudo snap install krita
-sudo snap install android-studio --classic
 sudo snap install pycharm-community --classic
 sudo apt install wget
 sudo apt-get install unzip
 sudo apt-get install python3
+sudo snap install code -classic
 sudo apt update
 
 # Making the dir
-# Making the dir
+
 # Making the VN and Apps folder
 mkdir VNs
 mkdir Apps
