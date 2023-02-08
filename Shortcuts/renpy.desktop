@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=8.0.3
+Type=Application
+Terminal=true
+Exec=/Apps/renpy-8.0.3-sdk/renpy.sh
+Name=Renpy
+Icon=/Apps/renpy-8.0.3-sdk/tutorial/game/gui/window_icon.png
