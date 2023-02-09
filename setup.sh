@@ -24,9 +24,24 @@ cd Code
 mkdir Python
 mkdir HTML
 # Going back to home.
-cd /Home
+cd -
+cd -
+cd -
+cd Apps
+mkdir Renpy
+mkdir OSU!
+cd --
+ls
+cd VNs
+mkdir Werewolf
+cd Werewolf
+mkdir VN
+mkdir Packs
+cd --
+cd Apps
 wget -O renpy https://www.renpy.org/dl/8.0.3/renpy-8.0.3-sdk.tar.bz2
 unzip renpy-8.0.3-sdk.tar.bz2
+cd - 
 
 # Finishing Set-up
 sudo apt update
